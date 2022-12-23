@@ -20,14 +20,7 @@ export function UserList() {
         <h1>Dairy User Information</h1>
       </div>
       <div className="row">
-        {/* <div className="two columns"> */}
-
-        {/* <button
-            onClick={() => dispatch(fetchUsers())}
-            className="button-primary"
-          >
-            Load users
-          </button> */}
+        
         <div className="three columns">
 
           <input
